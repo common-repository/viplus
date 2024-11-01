@@ -1,0 +1,9 @@
+#viplus_register_wrapper{}
+#viplus_register_wrapper h2{color: #FF0000;font-size: 22px;padding: 0;text-align: center;width: 100%;}
+#viplus_register_wrapper h2.title{color: #888888;}
+#viplus_register_wrapper form{width: 100%;padding-right: 5px;}
+#viplus_register_wrapper form input{width: 170px;border-radius: 10px 10px 10px 10px;}
+#viplus_register_wrapper form input[type="button"]{border-radius: 10px 10px 10px 10px;color: #888888;background-color: #FAFAFA;border: medium none;box-shadow: 3px 3px 5px 2px #E7E7E7;cursor: pointer;width: /*65px*/auto;}
+#viplus_register_wrapper form input[type="button"]:hover{color:#444;border: medium none;box-shadow: 4px 4px 10px 7px #F7E7E7;}
+#viplus_register_wrapper form label{width: /*60px*/auto;display: inline-block;margin-top: 5px;}
+#viplus_register_wrapper form label.submit_spacer{width:100%;}

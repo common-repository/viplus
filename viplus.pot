@@ -1,0 +1,17 @@
+# Copyright (C) 2010 MailChimp Widget
+# This file is distributed under the same license as the MailChimp Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MailChimp Widget 0.6.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mailchimp-widget\n"
+"POT-Creation-Date: 2011-01-16 19:08:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/ns_mc_plugin.class.php:72
+msgid "This user already exists"
+msgstr ""

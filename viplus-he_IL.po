@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Viplus Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-04 11:36+0200\n"
+"PO-Revision-Date: 2013-06-04 11:37+0200\n"
+"Last-Translator: ilya Krashchin <ilya@atp.co.il>\n"
+"Language-Team: Ilya Krashchin <ilya@atp.co.il>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: c:\\atplogic\\WORKING\\viplus-widget\\FINAL\\viplus\\trunk\n"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:19
+msgid "Subscribes new customer to V.I.Plus service"
+msgstr "מאפשר להירשם לרשימת התפוצה שלכם במערכת הדיוור V.I.Plus"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:91
+msgid "Invalid Cellular"
+msgstr "טלפון לא חוקי"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:92
+msgid "Invalid Email"
+msgstr "מייל לא חוקי"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:93
+msgid "First Name:"
+msgstr "שם פרטי:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:94
+msgid "Last Name:"
+msgstr "שם משפחה:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:95
+msgid "Cellular:"
+msgstr "טלפון נייד:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:96
+msgid "EMail:"
+msgstr "דוא\"ל:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:97
+msgid "Register"
+msgstr "הירשם"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:98
+msgid "JSError"
+msgstr "התרחשה שגיאת Javascript. לתמיכה שלחו מילל לכתובת support@viplus.co.il"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:178
+msgid "Thank You for registering"
+msgstr "תודה שנרשמתם ל-V.I.Plus"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:179
+msgid "Invalid data"
+msgstr "נתונים נדחו ע\"י המערכת"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:180
+msgid "This user already exists"
+msgstr "משתמש זה כבר קיים"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:181
+msgid "This user is blacklisted"
+msgstr "משתמש זה כבר נמצא ברשימה שחורה"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:182
+msgid "Unrecognized error message:"
+msgstr "שגיאה לא ידוע:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:185
+msgid "Registration failed: HTTP response status code:"
+msgstr "הרשמה נכשלה: קוד שגיאה HTTP:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:198
+msgid "Error: Only HTTP requests are supported !"
+msgstr "שגיאה: התמיכה היא רק בבקשות HTTP!"
+

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Viplus Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-04 11:37+0200\n"
+"PO-Revision-Date: 2013-06-04 11:37+0200\n"
+"Last-Translator: ilya Krashchin <ilya@atp.co.il>\n"
+"Language-Team: Ilya Krashchin <ilya@atp.co.il>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: c:\\atplogic\\WORKING\\viplus-widget\\FINAL\\viplus\\trunk\n"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:19
+msgid "Subscribes new customer to V.I.Plus service"
+msgstr "Subscribes new customer to V.I.Plus service"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:91
+msgid "Invalid Cellular"
+msgstr "Invalid Cellular"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:92
+msgid "Invalid Email"
+msgstr "Invalid Email"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:93
+msgid "First Name:"
+msgstr "First Name:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:94
+msgid "Last Name:"
+msgstr "Last Name:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:95
+msgid "Cellular:"
+msgstr "Cellular:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:96
+msgid "EMail:"
+msgstr "EMail:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:97
+msgid "Register"
+msgstr "Register"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:98
+msgid "JSError"
+msgstr "Javascript error occured. Please contact us at support@viplus.com"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:178
+msgid "Thank You for registering"
+msgstr "Thank You for registering"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:179
+msgid "Invalid data"
+msgstr "Invalid data"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:180
+msgid "This user already exists"
+msgstr "This user already exists"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:181
+msgid "This user is blacklisted"
+msgstr "This user is in black list"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:182
+msgid "Unrecognized error message:"
+msgstr "Unrecognized error message:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:185
+msgid "Registration failed: HTTP response status code:"
+msgstr "Registration failed: HTTP response status code:"
+
+#: c:\atplogic\WORKING\viplus-widget\FINAL\viplus\trunk/viplus.widget.php:198
+msgid "Error: Only HTTP requests are supported !"
+msgstr "Error: Only HTTP requests are supported !"
+
